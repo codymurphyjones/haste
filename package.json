@@ -1,0 +1,39 @@
+{
+  "name": "haste-interactive",
+  "version": "0.0.1",
+  "description": "Haste Interactive is an integrated platform offering a suite of libraries for real-time communication, media management, authentication, webhooks handling, access management, feature flagging, user segmentation for A/B testing, real-time updates in content management systems, and state management for forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codymurphyjones/haste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codymurphyjones/haste/issues"
+  },
+  "homepage": "https://github.com/codymurphyjones/haste#readme"
+  "keywords": [
+	"real-time communication",
+	"media uploads",
+	"video streaming",
+	"authentication",
+	"redis",
+	"webhooks",
+	"role-based access",
+	"management",
+	"security",
+	"feature flags",
+	"A/B testing",
+	"gradual release",
+	"content management system (CMS)",
+	"real-time updates",
+	"cross-platform compatibility"
+	"user engagement",
+	"app development utility"
+   ]
+}
+
